@@ -58,8 +58,8 @@ modules:
       - ln -s "${FLATPAK_DEST}/opt/XIVLauncher/XIVLauncher.Core" "${FLATPAK_DEST}/bin/xivlauncher"
     sources:
       - type: git
-        url: https://github.com/ottercorp/FFXIVQuickLauncher.git
-        commit: 3856b7394cc61d0cd93852c281c607c9cdf35277
+        url: https://github.com/ottercorp/XIVLauncher.Core.git
+        commit: d3d819ed4fee53a4b087384331e93f55d8fea6d5
       - type: file
         url: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.linux-x64/6.0.1/microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg
         dest: nuget-sources
