@@ -722,10 +722,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sharpcompress/0.32.2/sharpcompress.0.32.2.nupkg",
-        "sha512": "cd0cd74b68faf0dc159f576d9d37577aa6d0c8c849153a348338d90a3504937295043b66878372f7fc63710180795d65cd6b038b3699fd7765ac6247dc344ad3",
+        "url": "https://api.nuget.org/v3-flatcontainer/sharpcompress/0.17.1/sharpcompress.0.17.1.nupkg",
+        "sha512": "c0b46d985ad486117a963c9809659cc1f19167da57d603590d217af918f9bb14bce51ab8f7b1ef84fec260b3570b220fd6cd3ae43dde6c771103ab8ad4d16d71",
         "dest": "nuget-sources",
-        "dest-filename": "sharpcompress.0.32.2.nupkg"
+        "dest-filename": "sharpcompress.0.17.1.nupkg"
     },
     {
         "type": "file",
@@ -1321,13 +1321,6 @@
         "sha512": "12edddc9452a0c592eb24aeb2b9e152d60b8d44540349368e6fce3a239c6029847f8557adcd260df3b39c744ef45a6034d9db2fbce9e20e2b8dc78363578b0ef",
         "dest": "nuget-sources",
         "dest-filename": "system.text.encoding.codepages.4.5.1.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg",
-        "sha512": "ec873a95ec517de2c5a5364ada30974ddd5e0fafef2ad2517609a1900b5059d35757536fd073805001fa68d5b56a3d4647010a96c9eb233b1d172a3b45fbe4a9",
-        "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.6.0.0.nupkg"
     },
     {
         "type": "file",
