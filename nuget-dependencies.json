@@ -190,6 +190,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.netanalyzers/7.0.0/microsoft.codeanalysis.netanalyzers.7.0.0.nupkg",
+        "sha512": "81b21fb62a0694a075b982a034ba9593921c109f5aade95c0c33ad3822b80d9873c69f99c0dab690ca3a64a704182dccadfef540a8643f009f460c955249b8f6",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.codeanalysis.netanalyzers.7.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg",
         "sha512": "55b87f544874686bed96889953b7e99e43426b79b0fac31cc452e0f4a27ca5cc08522c0ac967bf9df649f7c04137a5e2553d134ad79d5c1e69578367c2b4b4c6",
         "dest": "nuget-sources",
@@ -274,20 +281,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/mono.nat/3.0.1/mono.nat.3.0.1.nupkg",
-        "sha512": "f4c41ae553c05990fafb76de1052656eb98266b401897d5caa9aa623da9b7079fb08532b54ec4ce8461f772aac7fae7bfb20d916c8ccfd27ed95c2b995a08ad7",
-        "dest": "nuget-sources",
-        "dest-filename": "mono.nat.3.0.1.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/monotorrent/2.0.0/monotorrent.2.0.0.nupkg",
-        "sha512": "bc5b6fcfe0f29443e5b63f694ff7d597cb08d40231969f572bfa9cc45af25d2d8fafb6447626b63c224a55378cd54b18a5d27d3c7ef8e1cffe58b7adf15f3b4b",
-        "dest": "nuget-sources",
-        "dest-filename": "monotorrent.2.0.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg",
         "sha512": "0972dc2dbb4925e896f62bce2e59d4e48639320ee38ad3016dcd485fbd6936a0ed08073ad5eef2a612dff05dfc390f3930fff9e79d87a06070eeb8128277cbd0",
         "dest": "nuget-sources",
@@ -306,13 +299,6 @@
         "sha512": "9adc1e0573d6869d42310013b414fb65f319adb6414ca7e31b0cfa63be4dc068f1fc6ced0da5277f0f062bd299d93e1f0c8a8a2720e373d471970e7e1b615c54",
         "dest": "nuget-sources",
         "dest-filename": "newtonsoft.json.12.0.2.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/reusabletasks/2.0.0/reusabletasks.2.0.0.nupkg",
-        "sha512": "92f8cb334e126f7364e2afe8065d6921f537434645ac06f782ce1ebb9f2ff4db5637f584202d3c552b3a4bdd56ba9cea864682fc4e9032e2735ea03110ca1a88",
-        "dest": "nuget-sources",
-        "dest-filename": "reusabletasks.2.0.0.nupkg"
     },
     {
         "type": "file",
