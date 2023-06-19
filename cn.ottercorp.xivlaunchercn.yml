@@ -59,7 +59,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/ottercorp/XIVLauncher.Core.git
-        commit: 65a4349c1dc08634a42a2e8317bb392e4dc08a9c
+        commit: 48bcc13256e538f0ae0a4b94891e57c9c5aa3250
       - type: file
         url: https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.linux-x64/6.0.1/microsoft.aspnetcore.app.runtime.linux-x64.6.0.1.nupkg
         dest: nuget-sources
