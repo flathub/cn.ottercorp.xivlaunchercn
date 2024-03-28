@@ -28,7 +28,7 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release date="2024-03-05" version="1.0.7.0" />
+    <release date="2024-03-28" version="1.0.7.1" />
   </releases>
   <update_contact>ottercorp@proton.me</update_contact>
   <launchable type="desktop-id">cn.ottercorp.xivlaunchercn.desktop</launchable>
