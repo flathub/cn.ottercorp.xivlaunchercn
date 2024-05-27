@@ -52,8 +52,8 @@ modules:
   buildsystem: simple
   name: xivlauncher
   sources:
-  - commit: d3c99fd50153af48a9462fb8807af462dd191155
-    tag: 1.0.7.1
+  - commit: d8b085b3aa84eaeac9d843cbc29c10b6eaf27f0d
+    tag: 1.0.7.2
     type: git
     url: https://github.com/ottercorp/XIVLauncher.Core.git
   - dest: nuget-sources
