@@ -99,10 +99,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/libsodium/1.0.20.1/libsodium.1.0.20.1.nupkg",
-        "sha512": "bd6a72ca53a8cf54cde57557dee09ae2e99ce9d07b68689fe71161ecb8a28ade5e6558b48ad3d4e281d22c76a34b48e95a9c1e59db7cbfb93cdc997fb34e0ff1",
+        "url": "https://api.nuget.org/v3-flatcontainer/libsodium/1.0.19/libsodium.1.0.19.nupkg",
+        "sha512": "ea8cc1b77299bf99cb32901edad447d757bf1c080aad85f2f5c159797667d197a913c390e51c3cf248e0052f7d52e12003bc801c69ea6ec9c2ef7be3cb278dac",
         "dest": "nuget-sources",
-        "dest-filename": "libsodium.1.0.20.1.nupkg"
+        "dest-filename": "libsodium.1.0.19.nupkg"
     },
     {
         "type": "file",
@@ -351,10 +351,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/nsec.cryptography/25.3.0-preview.4/nsec.cryptography.25.3.0-preview.4.nupkg",
-        "sha512": "4716a506c16ba39c7315f485e19d35c9437cb3e65251cba908217a14f3b99fc41c309eee088b199e11aec9979f2e4158178de301795c3b1c71d01514ebb100f2",
+        "url": "https://api.nuget.org/v3-flatcontainer/nsec.cryptography/24.4.0/nsec.cryptography.24.4.0.nupkg",
+        "sha512": "5dde1223ef2a7037355160022a424018968c11d10b98ba64d74bbe214c70006221ea887b867444bb6cfbb752b071fc5e50c873197ac322bfe9ca5c97730ded9a",
         "dest": "nuget-sources",
-        "dest-filename": "nsec.cryptography.25.3.0-preview.4.nupkg"
+        "dest-filename": "nsec.cryptography.24.4.0.nupkg"
     },
     {
         "type": "file",
@@ -869,10 +869,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sqlite-net-pcl/1.10.196-beta/sqlite-net-pcl.1.10.196-beta.nupkg",
-        "sha512": "6a2f5c8a74e94334b3e9fc776f0fb7ed481fb75220d37ff3879979f18445a5b3ffcee710d28fcaca3ae6006346e424b6ae9017e7b4dbb6afa964aa6e483aef83",
+        "url": "https://api.nuget.org/v3-flatcontainer/sqlite-net-pcl/1.9.172/sqlite-net-pcl.1.9.172.nupkg",
+        "sha512": "fa0a33a59937055c522089be5b94844ca0b29f245267cfe98358ccbf1fcfe2c671c2d4fad87bb0b2d3131b91a513a99781739a6364f5e30ede9f4584c986da48",
         "dest": "nuget-sources",
-        "dest-filename": "sqlite-net-pcl.1.10.196-beta.nupkg"
+        "dest-filename": "sqlite-net-pcl.1.9.172.nupkg"
     },
     {
         "type": "file",
