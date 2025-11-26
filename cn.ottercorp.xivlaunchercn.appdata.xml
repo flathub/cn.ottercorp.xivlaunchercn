@@ -35,4 +35,9 @@
   <project_group>ottercorp</project_group>
   <developer_name>XIVLauncherCN Contributors</developer_name>
   <content_rating type="oars-1.1" />
+  <keywords>
+    <keyword>ffxiv launcher</keyword>
+    <keyword>china server</keyword>
+    <keyword>steam deck integration</keyword>
+  </keywords>
 </component>
