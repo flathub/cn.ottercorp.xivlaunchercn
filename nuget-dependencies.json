@@ -176,6 +176,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.ilcompiler/10.0.1/microsoft.dotnet.ilcompiler.10.0.1.nupkg",
+        "sha512": "3cb75898296ceadae6f2714e5135714201b42b1b2c600e472fee9690d0d245f8419573a1077e3df85263b3ffae5ad26af5bbeb33dddd6c38f569b626c70dd44a",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.dotnet.ilcompiler.10.0.1.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.dotnet.platformabstractions/2.0.3/microsoft.dotnet.platformabstractions.2.0.3.nupkg",
         "sha512": "4a33f381937a429e15edf0ad579810d9b5f8489c051d069cd935d197fccdf99e942caba8980b7f3dc960094f58818b165af2829cdd2f3263fb53bd5d9d782db5",
         "dest": "nuget-sources",
@@ -187,6 +194,13 @@
         "sha512": "854453a101c1ddfe65ac0cdd0c5b5c995fdbfea83ba3c2dd9e3de253af3fba75c4ce61140b0857364a9e20d6faecbfeb6e89849017f06cbe8b5ae9aff60fcb70",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.extensions.dependencymodel.2.0.3.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.net.illink.tasks/10.0.1/microsoft.net.illink.tasks.10.0.1.nupkg",
+        "sha512": "cef2043ef3e24f6d733774a19ad615385a2038fc3baec4fdcc10de9e84e11ac4dbbaeefb561fd7d1147ec85765dbb11cee2031c60aed0742aab287f43fe5ed99",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.net.illink.tasks.10.0.1.nupkg"
     },
     {
         "type": "file",
@@ -295,6 +309,20 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/penet/2.6.4/penet.2.6.4.nupkg",
+        "sha512": "6613d77dcfec803e0731e733b7873838f769c5ef9308bc1eef80da0f15a19935b537a1577d8b96a93ba2361f585a244f796ed8439347cb2362c1191fa9363ef8",
+        "dest": "nuget-sources",
+        "dest-filename": "penet.2.6.4.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/penet.asn1/1.5.1/penet.asn1.1.5.1.nupkg",
+        "sha512": "486d1493c2628ca4ba7c2a1138fb0364365699897c948e09010bdd967bccbb921cc95ef61658989fe49e6af6d4cc38b06fc7ee8db6a30cc889230199b3ec8137",
+        "dest": "nuget-sources",
+        "dest-filename": "penet.asn1.1.5.1.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/pinvoke.kernel32/0.7.124/pinvoke.kernel32.0.7.124.nupkg",
         "sha512": "d5c8c8c7b7c79349f1e9cc4de98713dc51aaf9c07aafede11fc7a470be7842786030de9c3bc112c1b1b05e4abda0eef6e10f6e8c1953c1948315f3fdee9d94df",
         "dest": "nuget-sources",
@@ -351,6 +379,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/runtime.linux-x64.microsoft.dotnet.ilcompiler/10.0.1/runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.1.nupkg",
+        "sha512": "5caa948f466f04a1b1fb263567e94e6d36c4bdf582b738548e5713632ff2245d033adac524a93c3c4c88bbe672f116b389d54078fd0efb5f7585adf8273afaa6",
+        "dest": "nuget-sources",
+        "dest-filename": "runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.1.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/serilog/2.10.0/serilog.2.10.0.nupkg",
         "sha512": "9c19964d1126c2e99f546f1da81764644fe39b153e3d8d725473221a6e0855f356776d2f40a8a5d04ece4e420075d5b987650108a4fc9b32b4f56ad3d0792260",
         "dest": "nuget-sources",
@@ -376,6 +411,13 @@
         "sha512": "2ba6a22fd294d611ce62b365bf1149a5ed218e6c74747e9730c90aa25c2089014eafd67290355f1a0a2305fd4afa5a6c5090f0ce7f3a228543a5ae40aaceec8e",
         "dest": "nuget-sources",
         "dest-filename": "serilog.2.9.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/serilog/4.0.0/serilog.4.0.0.nupkg",
+        "sha512": "1f6279bcfa93ca9c13180dd7c7e5944d5351358b9cd3a360cbbf12f2dda508700cb9ffadeffd4dfe772a6ddb2c029e2c3473e655a3b660a644de51d67133268c",
+        "dest": "nuget-sources",
+        "dest-filename": "serilog.4.0.0.nupkg"
     },
     {
         "type": "file",
@@ -600,6 +642,13 @@
         "sha512": "23226c503b06abecee5a9604a6e4dd3dabcdf921f55d6aa6dad2bab1ca12a001c7866af5a6de01cc9b4ace54e5c8ee1d5c2fd29dd9dfd7eda3ed86f9b35fa59f",
         "dest": "nuget-sources",
         "dest-filename": "system.runtime.compilerservices.unsafe.5.0.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.security.cryptography.pkcs/5.0.1/system.security.cryptography.pkcs.5.0.1.nupkg",
+        "sha512": "803ca03a1b4f4a9c28c975462d312172a8be05df005d673a4727de191902de7cfac5b5c68c6248219fbb9dc1d2dd6ed77d744675ce6d6407b74479e0e7e2dc6b",
+        "dest": "nuget-sources",
+        "dest-filename": "system.security.cryptography.pkcs.5.0.1.nupkg"
     },
     {
         "type": "file",
