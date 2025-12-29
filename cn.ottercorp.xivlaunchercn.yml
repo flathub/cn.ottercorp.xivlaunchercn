@@ -1,8 +1,8 @@
 app-id: cn.ottercorp.xivlaunchercn
 build-options:
-  append-ld-library-path: /usr/lib/sdk/dotnet8/lib
-  append-path: /usr/lib/sdk/dotnet8/bin
-  append-pkg-config-path: /usr/lib/sdk/dotnet8/lib/pkgconfig
+  append-ld-library-path: /usr/lib/sdk/dotnet10/lib
+  append-path: /usr/lib/sdk/dotnet10/bin
+  append-pkg-config-path: /usr/lib/sdk/dotnet10/lib/pkgconfig
   env:
     DOTNET_CLI_TELEMETRY_OPTOUT: 'true'
 command: xivlauncher
@@ -73,4 +73,4 @@ runtime: org.freedesktop.Platform
 runtime-version: '25.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
-- org.freedesktop.Sdk.Extension.dotnet8
+- org.freedesktop.Sdk.Extension.dotnet10
